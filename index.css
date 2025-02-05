@@ -67,7 +67,7 @@
 }
 
 .question {
-  border: 1px solid yellow;
+  border: 2px solid yellow;
   border-radius: 16px;
   color: white;
   margin-top: 5px;
@@ -171,10 +171,6 @@ button {
   
   transition: background-color 0.3s; /* Плавный переход цвета */
 }
-#counter{
-
-  transform: translateX(10px);
-}
 
 button:hover {
   background-color: gold; /* Цвет кнопки при наведении */
@@ -182,7 +178,7 @@ button:hover {
 
 #counter {
   font-size: 24px;
-  margin: 20px 0;
+  margin: 10px 0;
   font-weight: bold;
 }
 
